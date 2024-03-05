@@ -1,0 +1,44 @@
+Exercise 4 : Data structures
+
+1) 	Number sorter:
+	Ask a user to enter in a set of number until they enter in a blank line (just press enter).
+	Your program must then return these numbers in sorted order (from smallest to largest)
+	
+2)	Top marks:
+	Write a program that asks a user to enter in numbers until they enter in a blank line (just press enter).
+	These values will represent student class marks (i.e. % values).
+	Your program must report the number of students in the class that got marks greater than or equal to 80%.
+	
+3)	Unique sorter:
+	Redo question 1, except	your program should remove duplicate entries before returning values in sorted order.
+
+4) 	Shopping list:
+	Write a program that allows a user to create a shopping list (one entry at a time as before).
+	After the user has finished creating their shopping list you must provide an option to let them to tell your program what they have bought. 
+	These items should them be removed from their shopping list until there are no items left on the list.
+	
+5)	Language Shuffle:
+	Create a program that gives each letter in the alphabet a different, unique value (i.e. another letter).
+	Your program should ask a user to enter in a sentence and translates the sentence with these different letter values.
+	e.g. the user can enter in the phrase "hello world!" and your program must output (for example) "jrppi eitpf!"
+	
+6)	Object-like programming:
+	Write a program that allows a user to store information about each of their friends (one friend at a time).
+	Information stored should include name, surname, age and email address.
+	Your program should then allow them to query information about any one of their friends, as follows:
+	if they ask for information about their friend "Debby", your program should output
+		name: Debby
+		surname: Debbison
+		age: 92
+		email: debby92@hotmail.com
+		
+7)	Mark capturing system:
+	Write a program that allows a user to capture marks for different students, doing different subjects
+	The program should first ask for the student name
+		then the subject
+		then the mark for that subject.
+	Finally, the program should report back this information
+	
+	
+
+		
