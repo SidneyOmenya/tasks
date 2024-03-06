@@ -1,0 +1,57 @@
+Python exercise	
+
+1)	Write a program that prints out the phrase "Hello world!"
+
+2)	Write a program with two variables, 
+		var_1 with the value "Hello" and 
+		var_2 with the value "world!"
+	Your program should use these two variables to print out the phrase "Hello world!"
+	
+3) 	Write a program with three variables with the values "Hello", "world" and "!"
+	Your program should use these variables to print out the phrase "Hello world!"
+	
+4) 	Write a program that writes out "Hello world!" 100 times
+
+5)	Write a program that asks a user for their first name, last name and age and then outputs this information.
+	e.g. "Hello Dorothy Nyamai. You are 28 years old"
+	
+6)	Message System
+	This program asks the user for their Name & email address, then asks them to leave a message. 
+	Your program should then confirm the details with the user.
+	
+	e.g. 
+	
+	Thank you for leaving your message Dorothy. The following message has been left:
+	
+	"Hi, my computer doesn't seem to be working. Please send someone to try fix it."
+	
+	We will respond to your message shortly using the email address d.nyamai@jkuat.ac.ke
+	Have a good day
+	
+7)	Write a program that prints out the sentence: Stuart's car is called "Megatron"
+		- Note, the sentence must use both the apostrophe and quotation marks as shown
+		
+8)	Write a program that writes out "Hello world!" 100 times
+		- Each "Hello world!" should be on a new line
+		
+9)	Write a program using a variable named x
+	The program should ask the user to enter an integer three times, then display the output as shown in the example below.
+	e.g. 
+	user enters in the values: 5, 3 and 13
+	program output:
+	
+	The value of x is 5
+	You added 3 to x. The value of x is now equal to 8
+	You added 13 to x. The value of x is now equal to 21
+	
+
+10)	Ask a user to input two numbers. Your program must then return
+		
+		a) the sum of these two numbers
+		b) the difference between these two numbers
+		c) the product of these two numbers
+		d) the quotient of these two numbers (with decimal places)
+		e) the quotient of these two numbers (with whole numbers and the remainder)
+	
+	
+	
